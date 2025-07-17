@@ -100,6 +100,7 @@ This React component implements a simple image slider that fetches images from a
 
 ## Example API Response
 
+
 ```json
 {
   "hits": [
